@@ -1,3 +1,7 @@
+---
+title: example
+---
+
 <!--
 Example content für https://pc-cdn-template.pc-tests.cf/demo
 -->
