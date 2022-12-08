@@ -29,3 +29,7 @@ https://test.de/microsites/adventskalender/index.htm
 ## app
 
 Toom
+
+Kaufland
+
+Netto
