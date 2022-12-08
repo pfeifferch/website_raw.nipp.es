@@ -32,9 +32,9 @@ https://www.vorwerk.com/de/de/c/home/landingpages/adventskalender
 
 https://www.dm.de/tipps-und-trends/themenwelten/weihnachten/adventskalender
 
+https://www.tauchen.de/adventskalender2022/
 
-
-
+https://www.mediamarkt.de/de/specials/adventskalender
 
 
 ## app
