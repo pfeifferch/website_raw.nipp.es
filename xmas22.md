@@ -12,12 +12,23 @@ https://www.futterhaus.de/gewinnspiele/online-adventskalender/
 
 https://www.bauhaus.info/adventskalender22
 
+https://filiale.kaufland.de/highlights/adventskalender.html#
 
+https://www.edeka.de/gewinnspiele/aktuelle-gewinnspiele/adventskalender/adventskalender.jsp
 
+https://www.instagram.com/nuki_smart_lock/
 
+https://www.globus.de/weihnachten/adventskalender.php
 
+https://www.fressnapf.de/aktionen-angebote/online-adventskalender/
 
+https://www.festool.de/kampagnen/adventskalender
 
+https://www.gardena.com/de/gartenmagazin/aktuelles/adventskalender/
+
+https://www.lidl-gewinnspiel.de/
+
+https://www.vorwerk.com/de/de/c/home/landingpages/adventskalender
 
 
 
@@ -30,6 +41,11 @@ https://www.bauhaus.info/adventskalender22
 
 Toom
 
-Kaufland
-
 Netto
+
+Teufel (Email)
+
+
+## sonstige
+
+https://www.mein-adventskalender.de/aktuell/online-adventskalender/
