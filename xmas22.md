@@ -36,6 +36,9 @@ https://www.tauchen.de/adventskalender2022/
 
 https://www.mediamarkt.de/de/specials/adventskalender
 
+https://www.eventim.de/campaign/eventim-adventskalender
+
+
 
 ## app
 
@@ -44,6 +47,10 @@ Toom
 Netto
 
 Teufel (Email)
+
+O2
+
+Payback
 
 
 ## sonstige
