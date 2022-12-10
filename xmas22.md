@@ -3,9 +3,9 @@ title: xmas 2022
 ---
 ## web 
 
-[https://xmas.avm.de/de/](https://xmas.avm.de/de/){:target="_blank"}
+https://xmas.avm.de/de/
 
-[https://www.aldiventskalender.de/sued/tagesverlosung](https://www.aldiventskalender.de/sued/tagesverlosung){:target="_blank"}
+https://www.aldiventskalender.de/sued/tagesverlosung
 
 https://test.de/microsites/adventskalender/index.htm
 
