@@ -29,7 +29,7 @@ https://www.festool.de/kampagnen/adventskalender
 
 https://www.gardena.com/de/gartenmagazin/aktuelles/adventskalender/
 
-https://www.lidl-gewinnspiel.de/
+https://xmas.lidl/
 
 https://www.vorwerk.com/de/de/c/home/landingpages/adventskalender
 
