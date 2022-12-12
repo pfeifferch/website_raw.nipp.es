@@ -59,3 +59,5 @@ Payback
 ## sonstige
 
 https://www.mein-adventskalender.de/aktuell/online-adventskalender/
+
+https://www.mydealz.de/deals/digitale-adventskalender-und-gewinnspiele-2022-sammeldeal-2086873
