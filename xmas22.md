@@ -5,8 +5,6 @@ title: xmas 2022
 
 https://xmas.nipp.es/  
 > Gibt nichts zu gewinnen aber ein bisschen spaß muss sein.  
-  (C) https://codepen.io/marcobiedermann/pen/KwdWvO  
-
 
 ## web 
 
