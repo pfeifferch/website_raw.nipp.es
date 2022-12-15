@@ -4,7 +4,7 @@ title: xmas 2022
 ## fun  
 
 https://xmas.nipp.es/  
-> Gibt nichts zu gewinnen aber ein bisschen spaß muss sein
+> Gibt nichts zu gewinnen aber ein bisschen spaß muss sein.  
 > (C) https://codepen.io/marcobiedermann/pen/KwdWvO  
 
 
