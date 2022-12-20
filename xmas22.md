@@ -9,8 +9,7 @@ https://xmas.nipp.es/
   
 ## letzte  
 
-https://sealife.leadfamly.com/adventskalender-2022   
- 
+---
    
 ## web 
 
@@ -57,9 +56,16 @@ https://www.mediamarkt.de/de/specials/adventskalender
 
 https://www.eventim.de/campaign/eventim-adventskalender
 
+https://sealife.leadfamly.com/adventskalender-2022   
+ 
+---
+
 https://store.epicgames.com/de/sales-and-specials/holiday-sale  
  
-  
+https://www.gog.com/#giveaway-claimed
+
+    
+---
 
 ## app
 
@@ -73,6 +79,7 @@ O2
 
 Payback
 
+---
 
 ## sonstige
 
