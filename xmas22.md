@@ -1,16 +1,15 @@
 ---
 title: xmas 2022
 ---
-## fun  
-  
+## fun   
 https://xmas.nipp.es/  
 > Gibt nichts zu gewinnen aber ein bisschen spaß muss sein.  
   
-  
-## letzte  
-
 ---
-   
+## letzte  
+-
+  
+---  
 ## web 
 
 https://xmas.avm.de/de/
@@ -59,14 +58,11 @@ https://www.eventim.de/campaign/eventim-adventskalender
 https://sealife.leadfamly.com/adventskalender-2022   
  
 ---
-
 https://store.epicgames.com/de/sales-and-specials/holiday-sale  
  
 https://www.gog.com/#giveaway-claimed
-
-    
+  
 ---
-
 ## app
 
 Toom
@@ -78,11 +74,11 @@ Teufel (Email)
 O2
 
 Payback
-
+  
 ---
-
 ## sonstige
 
 https://www.mein-adventskalender.de/aktuell/online-adventskalender/
 
 https://www.mydealz.de/deals/digitale-adventskalender-und-gewinnspiele-2022-sammeldeal-2086873
+  
