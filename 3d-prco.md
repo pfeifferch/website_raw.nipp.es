@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------
-title   : 3D - my Favorite Communitys
+title   : 3D
 style   : #header { background: RoyalBlue }
 
 3D Home                : /3d.htm
@@ -9,11 +9,7 @@ style   : #header { background: RoyalBlue }
 ### [3D Home]({{3D Home}}) 
 ### [3D printing community - 3d models]({{3D printing community}}) 
 ### [3D Favoriten]({{3D Favoriten}}) 
-
 ---
-
-## {{ title }}  
-
 https://cults3d.com/de  
 https://www.thingiverse.com/  
 
